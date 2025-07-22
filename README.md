@@ -2,7 +2,7 @@
 
 This Python code solves the FizzBuzz problem.
 
-# Description
+## Description
 
 The program takes a starting number and an ending number, and iterates through each number in this range. For every number, it checks:
 
@@ -10,3 +10,9 @@ The program takes a starting number and an ending number, and iterates through e
 - If the number is divisible by 3, it prints "Fizz"
 - If the number is divisible by 5, it prints "Buzz"
 - If neither is the case it prints the current number
+
+---
+
+## Notes
+
+**Version 1.1 changed "Buzz" to "Buss"**
